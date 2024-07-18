@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446018040628",
+    "project_id": "ecotrack-d1bc7",
+    "storage_bucket": "ecotrack-d1bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446018040628:android:59f9b0a3960ca9e564ab61",
+        "android_client_info": {
+          "package_name": "com.example.ecotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsj7q6JG0K58ToatWcroLz3K4s0kMQLy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
